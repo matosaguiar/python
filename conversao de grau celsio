@@ -1,0 +1,6 @@
+print("bem vindo acalculadora de grau celsio!/n")
+grau = float (input (" digite a temperatura em graus celsios/n"))
+
+conversao = 9 * grau / 5 + 32
+
+print (f"esse é o valor da sua conversao é de  {conversao}/n")
