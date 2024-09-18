@@ -1,0 +1,5 @@
+numeros = [5,10,15,20,25,30,35,40]
+
+numeros.pop(4) # O pop apaga um numero especifico considerando o indice dado a ele,no caso 4
+
+print(numeros)
