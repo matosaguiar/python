@@ -1,0 +1,5 @@
+numeros = [5,10,15,20,25,30,35,40]
+
+numeros.insert(2,13) # O insert insere um numero/palavra considerando o indice dado a ele
+
+print(numeros)
