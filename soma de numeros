@@ -1,0 +1,6 @@
+ista = [0,22,90,99,40,45,30,10]
+
+soma = lista [0]+ lista[1]+ lista [2] + lista [3] + lista [4] + lista[5] + lista[6] + lista[7] 
+#lista[9] + lista[10]
+
+print (soma)
