@@ -1,0 +1,5 @@
+palavras = ['palmeiras','saopaulo','corinthians','santos','flamengo']
+
+
+print(palavras [2])
+print(palavras[4])
