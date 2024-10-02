@@ -1,0 +1,11 @@
+lojathecrew2 = ['a','bmw','mercedez','buggati','porsche','ferrari','jaguar','pagani','masserati','maclaren','lexus']
+
+
+
+print(lojathecrew2[2])
+print(lojathecrew2[6])
+print(lojathecrew2[9])
+
+lojathecrew2.append ('golfao')
+
+print(lojathecrew2)
